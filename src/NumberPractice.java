@@ -21,7 +21,7 @@ public class NumberPractice {
      * 7 / 3 = 2 when performing int division
      */
 
-     float x = -1f;
+     // float x = -1f;
      int y = 5;
      y = y%3;
      if (y%2==0) {
